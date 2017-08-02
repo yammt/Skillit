@@ -1,0 +1,99 @@
+.home {
+  text-align: center;
+}
+
+p {
+  margin: 5px 0;
+  font-size: 12px;
+}
+
+img {
+  width: 100%;
+  margin: 44px 0;
+}
+
+span {
+  font-size: 11px;
+}
+
+li {
+  font-size: 14px;
+  width: 214px;
+  line-height: 24px;
+}
+
+button {
+  background: #ffca02;
+  padding: 15px 50px;
+  color: white;
+  border-radius: 10px;
+  font-size: 14px;
+  outline: none;
+  border-style: none;
+}
+
+.home-header {
+  height: 274px;
+  padding-top: 164px;
+}
+
+.header-text-1 {
+  font-size: 20px;
+  color: white;
+}
+
+.header-text-2 {
+  font-size: 60px;
+  color: white;
+}
+
+.img-1 {
+  position: absolute;
+  left: 0;
+  top: 0;
+  margin-top: 0;
+  height: 274px;
+  z-index: -1;
+}
+
+.sec-title {
+  margin: 10px 0;
+  font-size: 20px;
+}
+
+.sec-1 {
+    margin-top: 36px;
+}
+
+.btn-join {
+  margin: 20px 0;
+}
+
+.sec-2 {
+    text-align: left;
+    margin-left: 20px;
+}
+
+.sec-3 {
+    text-align: left;
+    margin-left: 20px;
+}
+
+.btn-find {
+    margin: 60px 0 30px;
+}
+
+.img-4 {
+  margin-bottom: -3px;
+}
+
+.contact-div {
+  background: #e6e6e6;
+  padding: 25px 0 35px;
+  text-align: center;
+}
+
+.home-footer {
+  padding: 20px 0;
+  text-align: center;
+}
