@@ -1,0 +1,114 @@
+.skill-detail {
+    text-align: left;
+}
+
+.skill-detail-header {
+    padding-bottom: 30px;
+    border-bottom: 1px solid lightgray;
+}
+
+.skill-detail-back-btn {
+    padding: 10px;
+    margin: 30px 10px 10px;
+    color: black;
+    background: transparent;    
+}
+
+
+.skill-detail-title {
+    text-align: center;
+    font-size: 22px;
+}
+
+.sec-img {
+    margin: 25px 20px 30px;
+}
+
+.detail-img-main {
+    margin: 0;
+}
+
+.sec-sub-img {
+    margin-top: 5px;
+    display: inline-flex;
+    justify-content: space-between;
+}
+
+.detail-img-sub {
+    margin: 0;
+    width: 24%;
+    height: 50px;
+}
+
+.sec-info {
+    padding: 30px 20px 10px;
+    border-top: 1px solid lightgray;
+}
+
+.sec-info-para-1 {
+    display: inline-flex;
+    width: 100%;
+}
+
+.sec-info-host {
+    width: 40%;
+}
+
+.sec-info-host :first-child {
+    font-size: 12px;
+    margin-bottom: 5px;
+}
+
+.sec-info-neighborhood {
+    width: 60%;
+}
+
+.sec-info-neighborhood :first-child {
+    font-size: 12px;
+    margin-bottom: 5px;
+}
+
+.sec-info-skillitname {
+    margin: 30px 0;
+}
+
+.sec-info-skillitname :first-child {
+    font-size: 12px;
+}
+
+.sec-info-text {
+    display: inline-flex;
+    width: 100%;
+}
+
+.sec-info-text :first-child {
+    width: 40%;
+    font-size: 12px;
+}
+
+.sec-info-text :last-child {
+    width: 60%;
+    font-size: 11px;
+}
+
+.sec-info-btn {
+    text-align: center;
+}
+
+.btn-email {
+    margin: 30px 0;
+}
+
+.sec-description {
+    padding: 60px 20px;
+    border-top: 1px solid lightgray;
+}
+
+.sec-description :first-child {
+    font-size: 12px;
+}
+
+.detail-description {
+    font-size: 14px;
+    margin-top: 15px;
+}
